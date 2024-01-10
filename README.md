@@ -22,4 +22,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sam-tech-ideas&" alt="sam-tech-ideas" /></p>
 
-[![Samuels's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Sam-Tech-Ideas&langs_count=8&layout=compact)](https://github.com/sam-tech-ideas/github-readme-stats)
